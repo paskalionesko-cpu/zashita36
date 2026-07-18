@@ -1,83 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <!-- Главная страница -->
   <url>
     <loc>https://xn---36-5cda4bi4fxc.xn--p1ai/</loc>
-    <lastmod>2026-07-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
     <image:image>
       <image:loc>https://xn---36-5cda4bi4fxc.xn--p1ai/assets/logo.png</image:loc>
       <image:title>Логотип адвокатского бюро «Защита в Воронеже»</image:title>
+      <image:caption>Профессиональные юридические услуги в Воронеже — адвокат, военный адвокат, юрист, риелтор</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://xn---36-5cda4bi4fxc.xn--p1ai/assets/office/office1.jpg</image:loc>
-      <image:title>Офис — приёмная</image:title>
+      <image:title>Офис адвокатского бюро — приёмная</image:title>
+      <image:caption>Приёмная адвокатского бюро «Защита в Воронеже», ул. 25 Января, 6а</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://xn---36-5cda4bi4fxc.xn--p1ai/assets/office/office2.jpg</image:loc>
-      <image:title>Офис — рабочее пространство</image:title>
+      <image:title>Офис адвокатского бюро — рабочее пространство</image:title>
+      <image:caption>Рабочее пространство юристов в Воронеже</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://xn---36-5cda4bi4fxc.xn--p1ai/assets/office/office3.jpg</image:loc>
-      <image:title>Офис — зал ожидания</image:title>
+      <image:title>Офис адвокатского бюро — зал ожидания</image:title>
+      <image:caption>Уютный зал ожидания для клиентов бюро</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://xn---36-5cda4bi4fxc.xn--p1ai/assets/office/office4.jpg</image:loc>
-      <image:title>Офис — переговорная</image:title>
+      <image:title>Офис адвокатского бюро — переговорная</image:title>
+      <image:caption>Переговорная комната для встреч с клиентами</image:caption>
     </image:image>
   </url>
 
   <!-- Адвокат -->
   <url>
     <loc>https://xn---36-5cda4bi4fxc.xn--p1ai/advocat.html</loc>
-    <lastmod>2026-07-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.95</priority>
     <image:image>
       <image:loc>https://xn---36-5cda4bi4fxc.xn--p1ai/assets/logo.png</image:loc>
       <image:title>Логотип адвокатского бюро «Защита в Воронеже»</image:title>
+      <image:caption>Адвокат в Воронеже — уголовные, гражданские, административные дела</image:caption>
     </image:image>
   </url>
 
   <!-- Военный адвокат -->
   <url>
     <loc>https://xn---36-5cda4bi4fxc.xn--p1ai/voennyj-advokat.html</loc>
-    <lastmod>2026-07-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.95</priority>
     <image:image>
       <image:loc>https://xn---36-5cda4bi4fxc.xn--p1ai/assets/logo.png</image:loc>
       <image:title>Логотип адвокатского бюро «Защита в Воронеже»</image:title>
+      <image:caption>Военный адвокат в Воронеже — защита прав военнослужащих</image:caption>
     </image:image>
   </url>
 
   <!-- Юрист -->
   <url>
     <loc>https://xn---36-5cda4bi4fxc.xn--p1ai/yurist.html</loc>
-    <lastmod>2026-07-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
     <image:image>
       <image:loc>https://xn---36-5cda4bi4fxc.xn--p1ai/assets/logo.png</image:loc>
       <image:title>Логотип адвокатского бюро «Защита в Воронеже»</image:title>
+      <image:caption>Юрист в Воронеже — семейные споры, наследство, банкротство</image:caption>
     </image:image>
   </url>
 
   <!-- Риелтор -->
   <url>
     <loc>https://xn---36-5cda4bi4fxc.xn--p1ai/rieltor.html</loc>
-    <lastmod>2026-07-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
     <image:image>
       <image:loc>https://xn---36-5cda4bi4fxc.xn--p1ai/assets/logo.png</image:loc>
       <image:title>Логотип адвокатского бюро «Защита в Воронеже»</image:title>
+      <image:caption>Риелтор в Воронеже — купля-продажа, ипотека, аренда недвижимости</image:caption>
     </image:image>
   </url>
 

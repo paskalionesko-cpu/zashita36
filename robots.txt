@@ -3,13 +3,15 @@
 
 User-agent: *
 Allow: /
-Disallow: /assets/
+Disallow: /assets/js/
 Disallow: /.mimocode/
 
-# Специальные правила для Yandex
+# Специальные правила для Yandex — разрешаем изображения для favicon/логотипа
 User-agent: Yandex
 Allow: /
-Disallow: /assets/
+Allow: /assets/logo.png
+Allow: /assets/office/
+Disallow: /assets/js/
 Disallow: /.mimocode/
 Clean-param:utm_source&utm_medium&utm_campaign
 Clean-param:ref
@@ -26,3 +28,4 @@ Disallow: /
 
 # Sitemap
 Sitemap: https://xn---36-5cda4bi4fxc.xn--p1ai/sitemap.xml
+Sitemap: https://xn---36-5cda4bi4fxc.xn--p1ai/sitemap-images.xml
